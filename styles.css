@@ -176,8 +176,8 @@ body {
  border-radius: 4px; 
  color: var(--color-accent); 
 } 
- 
-/* Pie de Página */ 
+
+/* Pie de la página */ 
 .app-footer { 
  background-color: var(--bg-secondary); 
  border-top: 1px solid var(--border-color); 
